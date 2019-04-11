@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+}
+
+a:link {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: inherit;
+}
+
+a:active {
+  text-decoration: underline;
+  color: inherit;
+}

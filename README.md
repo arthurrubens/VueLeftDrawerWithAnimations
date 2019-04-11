@@ -1,2 +1,0 @@
-# VueLeftDrawerWithAnimations
-Created with CodeSandbox
